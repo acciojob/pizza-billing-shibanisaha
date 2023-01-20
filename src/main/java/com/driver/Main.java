@@ -17,16 +17,3 @@ public class Main {
   }
 }
 
-//450
-//        nullBase Price Of The Pizza: 300
-//        Extra Cheese Added: 80
-//        Extra Toppings Added: 70
-//        Paperbag Added: 20
-//        Total Price: 470
-//        nullBase Price Of The Pizza: 300
-//        Extra Cheese Added: 80
-//        Extra Toppings Added: 70
-//        Paperbag Added: 20
-//        Total Price: 470
-//
-//        Process finished with exit code 0
